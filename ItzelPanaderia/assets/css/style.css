@@ -1,0 +1,17 @@
+
+  .navbar2{
+    background-color: rgb(224, 198, 150);
+  }
+  
+  li{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .box-img{
+    object-fit: cover;
+    height: 250px;
+}
+
+.bottonn{
+    background-color: rgb(224, 198, 150);
+}
